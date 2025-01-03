@@ -3,7 +3,7 @@
 ### Features of App: - 
 ###                    1) user can select  color for drawing
 ###                    2) image sharing and saving features
-###                    3) user Adjust Brush Size
+###                    3) user can Adjust Drawing Brush Size
 ###                    4) Adding forward and backward button features and many more.
 
 ## Output
